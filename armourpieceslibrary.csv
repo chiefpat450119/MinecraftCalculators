@@ -1,0 +1,26 @@
+name,type,defense,toughness
+leather cap,helmet,1,0
+turtle shell,helmet,2,0
+golden helmet,helmet,2,0
+chainmail helmet,helmet,2,0
+iron helmet,helmet,2,0
+diamond helmet,helmet,3,2
+netherite helmet,helmet,3,3
+leather tunic,chestplate,3,0
+golden chestplate,chestplate,5,0
+chainmail chestplate,chestplate,5,0
+iron chestplate,chestplate,6,0
+diamond chestplate,chestplate,8,2
+netherite chestplate,chestplate,8,3
+leather pants,leggings,2,0
+golden leggings,leggings,3,0
+chainmail leggings,leggings,4,0
+iron leggings,leggings,5,0
+diamond leggings,leggings,6,2
+netherite leggings,leggings,6,3
+leather boots,boots,1,0
+golden boots,boots,1,0
+chainmail boots ,boots,1,0
+iron boots,boots,2,0
+diamond boots,boots,3,2
+netherite boots,boots,3,3
